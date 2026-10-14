@@ -1,6 +1,8 @@
 HiddenBrowser is a lightweight, feature-rich utility and privacy browser available for both Windows and macOS. It is designed for discreet, fast browsing with advanced features like global hotkeys, adjustable window opacity, built-in ad blocking, and customizable tabs.   
 Versions & Code Structure
 
+NOT COMPATABLE WITH CHROMEOS ONLY COMPATABLE OPERATING SYSTEMS ARE leter vertions of windows/macos
+
 1. Windows Version (HiddenBrowser-Windows/)Project & Build: Built using C# with project configuration files (HiddenBrowser.csproj) and automated build scripts (build.bat).
 Core Components: Organized modularly across C# source files including MainForm.cs and MainForm.Settings.cs, ad-blocking logic in AdBlock.cs, configuration handling in Config.cs, UI controls in Controls.cs, global usings in GlobalUsings.cs, home page logic in HomePage.cs, native interop in Native.cs, program entry point in Program.cs, styling in Theme.cs, and a text readme (README.txt).
 IF INVISABLE USE DEFAULT UNHIDE KEYBIND CTR + ALT + H
