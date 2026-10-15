@@ -1,6 +1,8 @@
 HiddenBrowser is a lightweight, feature-rich utility and privacy browser available for both Windows and macOS. It is designed for discreet, fast browsing with advanced features like global hotkeys, adjustable window opacity, built-in ad blocking, and customizable tabs.   
 Versions & Code Structure
 
+The main purpose 
+
 NOT COMPATABLE WITH CHROMEOS ONLY COMPATABLE OPERATING SYSTEMS ARE leter vertions of windows/macos
 
 1. Windows Version (HiddenBrowser-Windows/)Project & Build: Built using C# with project configuration files (HiddenBrowser.csproj) and automated build scripts (build.bat).
